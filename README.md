@@ -24,7 +24,7 @@ pip install webbrowser
 
 If you wnat you can directly open .ipynb file named main.ipynb with the help of Jupyter, Google collab or any IDE of your choice.
 
-#Use
+# Use
 
 First the image is selected from the system . OCR is the mechanical or electronic conversion of images of typed, handwritten or printed test into machine coded text. The basic junction of OCR Technology is to automatically capture printed text present scanned images and convert it into a text searchable document.
 
